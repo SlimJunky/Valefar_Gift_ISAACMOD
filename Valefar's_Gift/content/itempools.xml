@@ -1,0 +1,8 @@
+<ItemPools>
+<Pool Name="devil">
+    <Item Name = "Valefar's Gift" Weight = "2" DecreaseBy="2" RemoveOn="0.02" />
+</Pool>
+<Pool Name="curse">
+    <Item Name = "Valefar's Gift" Weight = "2" DecreaseBy="2" RemoveOn="0.02" />
+</Pool>
+</ItemPools>

@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+<passive id="1" name="Valefar's Gift" gfx="valefar_item.png" description = "Stealing from the devil drains your life" quality = "3" devilprice = "1" cache="speed" cleareffectsonremove = "true"/>
+</items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Valefar's Gift</name>
+    <directory>valefar's_gift</directory>
+    <id>3003897664</id>
+    <description>[h1] ABOUT [/h1]
+Isaac has been busy studying the Lemegeton. In his reading he opened his mind to the forgotten duke of hell.
+
+Issac, in his nightmare, envisions Valefar and his symbol as being able to give great powers.[i] And so the symbol appears in the basement.[/i] The duke of hell rewards thieves, and is Isaac not the biggest thief? Afterall, Isaac believes he does not deserve heaven so he must steal his way to purity.
+
+Isaac may now be able to steal from the devil, but even though Valefar offers great rewards through showering his servants with stolen gifts, it is only for a brief amount of time until his seal cracks open. Isaac feels his life force leaving him, caught in Valefar's trap, he cries out. Laughter and bells ring out as his life is permanently taken from him. If Isaac wishes to escape his mothers grasp and make use of this new found power then he knows he must do it quickly. Otherwise he may never make it out of this nightmare...
+
+[h2] VALEFAR'S GIFT [/h2]
+[list]
+[*]Appears in [b]CURSE[/b] rooms and [b]DEVIL DEAL[/b] rooms. The devil [b]DEAL PRICE IS 1 FULL RED HEART. [/b]
+
+[*]Grants 4 smelted trinkets which are [b]DEVILS CROWN, NUMBER MAGNET (6), DAEMONS TAIL and BLACK FEATHER. [/b]
+
+[*][b] EXTERNAL ITEM COMPATIBLE CUSTOM DESCRIPTION AND CUSTOM COSTUME UPON PICKUP. [/b]
+
+[*][b]ALL DEVIL DEALS ARE FREE ITEM PEDESTALS.[/b] This means that red treasure rooms are also free with the combination of the devil's crown.
+
+[*]The catch? [b]EVERY 6 MINUTES[/b] after picking up the item (Unless Valefar's Gift is dropped or removed) [b]THE PLAYER WILL RECEIVE 2 BROKEN HEARTS.[/b] There is an audio cue for when this is about to happen and when it will finally happen.
+
+[*][b] UPON PICKING UP GIVES 2 BROKEN HEARTS.[/b]
+[/list]
+
+[h2] BALANCING [/h2]
+[i]I AM CURRENTLY WORKING ON THE MOD, TESTING AND FEEDBACK WOULD MAKE BALANCING THE ITEM MUCH EASIER AND AS A RESULT MORE FUN TO USE.[/i]
+[i] CURRENT IDEAS ARE TO GIVE PERMANENT GOATHEAD (BUT REMOVE ANY CHANCES FOR ANGEL DEALS). INCREASE PLAYER SPEED EVERYTIME BROKEN HEARTS ARE ADDED. [/i]
+
+[h2] CREDIT [/h2]
+[b] BIG THANKS TO THE MODDING OF ISAAC DISCORD SPECIFICALLY (MONWIL, AERP, SLUGCAT, HYBRID, U.P.S AND √∞) SUPER SPECIAL CREDIT TO HARVESTER FOR MAKING THE IMPROVED SPRITE! [/b] THANK YOU ALL FOR MAKING THIS MOD POSSIBLE WITH YOUR GUIDANCE.</description>
+    <version>1.8</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Pickups"/>
+    <tag id="Tweaks"/>
+</metadata>
